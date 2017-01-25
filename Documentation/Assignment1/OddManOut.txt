@@ -7,5 +7,5 @@ function OddManOut(a, N)
 end
 Here v gives the resultant number which exactly appears only once in the array.
 
-In this we are just oing the XOR opertation between the intgers in the array, that operation results the number that appears exactly once the unsorted array.
+In this we are just doing the XOR opertation between the intgers in the array, that operation results the number that appears exactly once the unsorted array.
 
