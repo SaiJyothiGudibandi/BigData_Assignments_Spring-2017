@@ -1,9 +1,9 @@
 Consider Integers in Unsorted array a[0..n-1]
-function OddManOut(a, N)
-    v = 0
-    for every number in the array(i from 0 to n-1 )
-        v = v XOR a[i]
-    return v
+function OddManOut(a, n)
+ v = 0
+ for every number in the array(i from 0 to n-1 )
+ v = v XOR a[i]
+ return v
 end
 Here v gives the resultant number which exactly appears only once in the array.
 
