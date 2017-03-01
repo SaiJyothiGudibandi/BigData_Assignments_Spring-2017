@@ -19,3 +19,6 @@ https://github.com/saijyothi9/BigData_Spring2017/wiki/Assignment4
 Assignment5:
 https://github.com/saijyothi9/BigData_Spring2017/wiki/Assignment5
 
+
+Assignment6:
+https://github.com/saijyothi9/BigData_Spring2017/wiki/Assignment6
