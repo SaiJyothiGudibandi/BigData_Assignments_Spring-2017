@@ -1,0 +1,1721 @@
+[
+    {
+        "outputFile": "C:\\Users\\gshkr\\Desktop\\Android-Object-Detection-master\\Android-Object-Detection-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v21\\values-v21.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 3,
+                    "endColumn": 12,
+                    "endOffset": 129
+                },
+                "from": {
+                    "file": "C:\\Users\\gshkr\\Desktop\\Android-Object-Detection-master\\Android-Object-Detection-master\\app\\src\\main\\res\\values-v21\\styles.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endLine": 3,
+                        "endColumn": 12,
+                        "endOffset": 129
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 134,
+                    "endColumn": 90,
+                    "endOffset": 220
+                },
+                "from": {
+                    "file": "C:\\Users\\gshkr\\Desktop\\Android-Object-Detection-master\\Android-Object-Detection-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 286,
+                        "endColumn": 90,
+                        "endOffset": 372
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 225,
+                    "endColumn": 102,
+                    "endOffset": 323
+                },
+                "from": {
+                    "file": "C:\\Users\\gshkr\\Desktop\\Android-Object-Detection-master\\Android-Object-Detection-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 377,
+                        "endColumn": 102,
+                        "endOffset": 475
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 328,
+                    "endColumn": 102,
+                    "endOffset": 426
+                },
+                "from": {
+                    "file": "C:\\Users\\gshkr\\Desktop\\Android-Object-Detection-master\\Android-Object-Detection-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 480,
+                        "endColumn": 102,
+                        "endOffset": 578
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 431,
+                    "endColumn": 104,
+                    "endOffset": 531
+                },
+                "from": {
+                    "file": "C:\\Users\\gshkr\\Desktop\\Android-Object-Detection-master\\Android-Object-Detection-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 583,
+                        "endColumn": 104,
+                        "endOffset": 683
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 536,
+                    "endColumn": 106,
+                    "endOffset": 638
+                },
+                "from": {
+                    "file": "C:\\Users\\gshkr\\Desktop\\Android-Object-Detection-master\\Android-Object-Detection-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 688,
+                        "endColumn": 106,
+                        "endOffset": 790
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 643,
+                    "endColumn": 108,
+                    "endOffset": 747
+                },
+                "from": {
+                    "file": "C:\\Users\\gshkr\\Desktop\\Android-Object-Detection-master\\Android-Object-Detection-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 795,
+                        "endColumn": 108,
+                        "endOffset": 899
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 752,
+                    "endColumn": 108,
+                    "endOffset": 856
+                },
+                "from": {
+                    "file": "C:\\Users\\gshkr\\Desktop\\Android-Object-Detection-master\\Android-Object-Detection-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 904,
+                        "endColumn": 108,
+                        "endOffset": 1008
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 861,
+                    "endColumn": 108,
+                    "endOffset": 965
+                },
+                "from": {
+                    "file": "C:\\Users\\gshkr\\Desktop\\Android-Object-Detection-master\\Android-Object-Detection-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 1013,
+                        "endColumn": 108,
+                        "endOffset": 1117
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 970,
+                    "endColumn": 108,
+                    "endOffset": 1074
+                },
+                "from": {
+                    "file": "C:\\Users\\gshkr\\Desktop\\Android-Object-Detection-master\\Android-Object-Detection-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1122,
+                        "endColumn": 108,
+                        "endOffset": 1226
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 1079,
+                    "endColumn": 108,
+                    "endOffset": 1183
+                },
+                "from": {
+                    "file": "C:\\Users\\gshkr\\Desktop\\Android-Object-Detection-master\\Android-Object-Detection-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1231,
+                        "endColumn": 108,
+                        "endOffset": 1335
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 1188,
+                    "endColumn": 106,
+                    "endOffset": 1290
+                },
+                "from": {
+                    "file": "C:\\Users\\gshkr\\Desktop\\Android-Object-Detection-master\\Android-Object-Detection-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1340,
+                        "endColumn": 106,
+                        "endOffset": 1442
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 1295,
+                    "endColumn": 102,
+                    "endOffset": 1393
+                },
+                "from": {
+                    "file": "C:\\Users\\gshkr\\Desktop\\Android-Object-Detection-master\\Android-Object-Detection-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1447,
+                        "endColumn": 102,
+                        "endOffset": 1545
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1398,
+                    "endColumn": 118,
+                    "endOffset": 1512
+                },
+                "from": {
+                    "file": "C:\\Users\\gshkr\\Desktop\\Android-Object-Detection-master\\Android-Object-Detection-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1550,
+                        "endColumn": 118,
+                        "endOffset": 1664
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1517,
+                    "endLine": 18,
+                    "endColumn": 12,
+                    "endOffset": 1667
+                },
+                "from": {
+                    "file": "C:\\Users\\gshkr\\Desktop\\Android-Object-Detection-master\\Android-Object-Detection-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1895,
+                        "endLine": 20,
+                        "endColumn": 12,
+                        "endOffset": 2045
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1672,
+                    "endLine": 20,
+                    "endColumn": 12,
+                    "endOffset": 1822
+                },
+                "from": {
+                    "file": "C:\\Users\\gshkr\\Desktop\\Android-Object-Detection-master\\Android-Object-Detection-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 2050,
+                        "endLine": 22,
+                        "endColumn": 12,
+                        "endOffset": 2200
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1827,
+                    "endColumn": 104,
+                    "endOffset": 1927
+                },
+                "from": {
+                    "file": "C:\\Users\\gshkr\\Desktop\\Android-Object-Detection-master\\Android-Object-Detection-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 2436,
+                        "endColumn": 104,
+                        "endOffset": 2536
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1932,
+                    "endColumn": 120,
+                    "endOffset": 2048
+                },
+                "from": {
+                    "file": "C:\\Users\\gshkr\\Desktop\\Android-Object-Detection-master\\Android-Object-Detection-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 2541,
+                        "endColumn": 120,
+                        "endOffset": 2657
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 2053,
+                    "endColumn": 100,
+                    "endOffset": 2149
+                },
+                "from": {
+                    "file": "C:\\Users\\gshkr\\Desktop\\Android-Object-Detection-master\\Android-Object-Detection-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 2662,
+                        "endColumn": 100,
+                        "endOffset": 2758
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 2154,
+                    "endLine": 25,
+                    "endColumn": 12,
+                    "endOffset": 2296
+                },
+                "from": {
+                    "file": "C:\\Users\\gshkr\\Desktop\\Android-Object-Detection-master\\Android-Object-Detection-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 4,
+                        "startOffset": 2989,
+                        "endLine": 31,
+                        "endColumn": 12,
+                        "endOffset": 3131
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 2301,
+                    "endLine": 27,
+                    "endColumn": 12,
+                    "endOffset": 2437
+                },
+                "from": {
+                    "file": "C:\\Users\\gshkr\\Desktop\\Android-Object-Detection-master\\Android-Object-Detection-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 32,
+                        "startColumn": 4,
+                        "startOffset": 3136,
+                        "endLine": 33,
+                        "endColumn": 12,
+                        "endOffset": 3272
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 2442,
+                    "endColumn": 102,
+                    "endOffset": 2540
+                },
+                "from": {
+                    "file": "C:\\Users\\gshkr\\Desktop\\Android-Object-Detection-master\\Android-Object-Detection-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 36,
+                        "startColumn": 4,
+                        "startOffset": 3508,
+                        "endColumn": 102,
+                        "endOffset": 3606
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 2545,
+                    "endColumn": 118,
+                    "endOffset": 2659
+                },
+                "from": {
+                    "file": "C:\\Users\\gshkr\\Desktop\\Android-Object-Detection-master\\Android-Object-Detection-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 37,
+                        "startColumn": 4,
+                        "startOffset": 3611,
+                        "endColumn": 118,
+                        "endOffset": 3725
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 2664,
+                    "endColumn": 106,
+                    "endOffset": 2766
+                },
+                "from": {
+                    "file": "C:\\Users\\gshkr\\Desktop\\Android-Object-Detection-master\\Android-Object-Detection-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 38,
+                        "startColumn": 4,
+                        "startOffset": 3730,
+                        "endColumn": 106,
+                        "endOffset": 3832
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 31,
+                    "startColumn": 4,
+                    "startOffset": 2771,
+                    "endColumn": 102,
+                    "endOffset": 2869
+                },
+                "from": {
+                    "file": "C:\\Users\\gshkr\\Desktop\\Android-Object-Detection-master\\Android-Object-Detection-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 39,
+                        "startColumn": 4,
+                        "startOffset": 3837,
+                        "endColumn": 102,
+                        "endOffset": 3935
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 32,
+                    "startColumn": 4,
+                    "startOffset": 2874,
+                    "endLine": 33,
+                    "endColumn": 12,
+                    "endOffset": 3016
+                },
+                "from": {
+                    "file": "C:\\Users\\gshkr\\Desktop\\Android-Object-Detection-master\\Android-Object-Detection-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 42,
+                        "startColumn": 4,
+                        "startOffset": 4166,
+                        "endLine": 43,
+                        "endColumn": 12,
+                        "endOffset": 4308
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 34,
+                    "startColumn": 4,
+                    "startOffset": 3021,
+                    "endLine": 35,
+                    "endColumn": 12,
+                    "endOffset": 3171
+                },
+                "from": {
+                    "file": "C:\\Users\\gshkr\\Desktop\\Android-Object-Detection-master\\Android-Object-Detection-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 44,
+                        "startColumn": 4,
+                        "startOffset": 4313,
+                        "endLine": 45,
+                        "endColumn": 12,
+                        "endOffset": 4463
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 36,
+                    "startColumn": 4,
+                    "startOffset": 3176,
+                    "endLine": 37,
+                    "endColumn": 12,
+                    "endOffset": 3342
+                },
+                "from": {
+                    "file": "C:\\Users\\gshkr\\Desktop\\Android-Object-Detection-master\\Android-Object-Detection-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 46,
+                        "startColumn": 4,
+                        "startOffset": 4468,
+                        "endLine": 47,
+                        "endColumn": 12,
+                        "endOffset": 4634
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 38,
+                    "startColumn": 4,
+                    "startOffset": 3347,
+                    "endLine": 39,
+                    "endColumn": 12,
+                    "endOffset": 3491
+                },
+                "from": {
+                    "file": "C:\\Users\\gshkr\\Desktop\\Android-Object-Detection-master\\Android-Object-Detection-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 48,
+                        "startColumn": 4,
+                        "startOffset": 4639,
+                        "endLine": 49,
+                        "endColumn": 12,
+                        "endOffset": 4783
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 40,
+                    "startColumn": 4,
+                    "startOffset": 3496,
+                    "endLine": 41,
+                    "endColumn": 12,
+                    "endOffset": 3656
+                },
+                "from": {
+                    "file": "C:\\Users\\gshkr\\Desktop\\Android-Object-Detection-master\\Android-Object-Detection-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 50,
+                        "startColumn": 4,
+                        "startOffset": 4788,
+                        "endLine": 51,
+                        "endColumn": 12,
+                        "endOffset": 4948
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 42,
+                    "startColumn": 4,
+                    "startOffset": 3661,
+                    "endLine": 43,
+                    "endColumn": 12,
+                    "endOffset": 3813
+                },
+                "from": {
+                    "file": "C:\\Users\\gshkr\\Desktop\\Android-Object-Detection-master\\Android-Object-Detection-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 52,
+                        "startColumn": 4,
+                        "startOffset": 4953,
+                        "endLine": 53,
+                        "endColumn": 12,
+                        "endOffset": 5105
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 44,
+                    "startColumn": 4,
+                    "startOffset": 3818,
+                    "endLine": 45,
+                    "endColumn": 12,
+                    "endOffset": 3964
+                },
+                "from": {
+                    "file": "C:\\Users\\gshkr\\Desktop\\Android-Object-Detection-master\\Android-Object-Detection-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 54,
+                        "startColumn": 4,
+                        "startOffset": 5110,
+                        "endLine": 55,
+                        "endColumn": 12,
+                        "endOffset": 5256
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 46,
+                    "startColumn": 4,
+                    "startOffset": 3969,
+                    "endColumn": 118,
+                    "endOffset": 4083
+                },
+                "from": {
+                    "file": "C:\\Users\\gshkr\\Desktop\\Android-Object-Detection-master\\Android-Object-Detection-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 58,
+                        "startColumn": 4,
+                        "startOffset": 5492,
+                        "endColumn": 118,
+                        "endOffset": 5606
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 47,
+                    "startColumn": 4,
+                    "startOffset": 4088,
+                    "endLine": 48,
+                    "endColumn": 12,
+                    "endOffset": 4232
+                },
+                "from": {
+                    "file": "C:\\Users\\gshkr\\Desktop\\Android-Object-Detection-master\\Android-Object-Detection-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 61,
+                        "startColumn": 4,
+                        "startOffset": 5837,
+                        "endLine": 62,
+                        "endColumn": 12,
+                        "endOffset": 5981
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 49,
+                    "startColumn": 4,
+                    "startOffset": 4237,
+                    "endLine": 50,
+                    "endColumn": 12,
+                    "endOffset": 4381
+                },
+                "from": {
+                    "file": "C:\\Users\\gshkr\\Desktop\\Android-Object-Detection-master\\Android-Object-Detection-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 63,
+                        "startColumn": 4,
+                        "startOffset": 5986,
+                        "endLine": 64,
+                        "endColumn": 12,
+                        "endOffset": 6130
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 51,
+                    "startColumn": 4,
+                    "startOffset": 4386,
+                    "endColumn": 111,
+                    "endOffset": 4493
+                },
+                "from": {
+                    "file": "C:\\Users\\gshkr\\Desktop\\Android-Object-Detection-master\\Android-Object-Detection-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 67,
+                        "startColumn": 4,
+                        "startOffset": 6366,
+                        "endColumn": 111,
+                        "endOffset": 6473
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 52,
+                    "startColumn": 4,
+                    "startOffset": 4498,
+                    "endColumn": 146,
+                    "endOffset": 4640
+                },
+                "from": {
+                    "file": "C:\\Users\\gshkr\\Desktop\\Android-Object-Detection-master\\Android-Object-Detection-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 70,
+                        "startColumn": 4,
+                        "startOffset": 6704,
+                        "endColumn": 146,
+                        "endOffset": 6846
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 53,
+                    "startColumn": 4,
+                    "startOffset": 4645,
+                    "endLine": 54,
+                    "endColumn": 12,
+                    "endOffset": 4793
+                },
+                "from": {
+                    "file": "C:\\Users\\gshkr\\Desktop\\Android-Object-Detection-master\\Android-Object-Detection-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 71,
+                        "startColumn": 4,
+                        "startOffset": 6851,
+                        "endLine": 72,
+                        "endColumn": 12,
+                        "endOffset": 6999
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 55,
+                    "startColumn": 4,
+                    "startOffset": 4798,
+                    "endLine": 56,
+                    "endColumn": 12,
+                    "endOffset": 4940
+                },
+                "from": {
+                    "file": "C:\\Users\\gshkr\\Desktop\\Android-Object-Detection-master\\Android-Object-Detection-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 73,
+                        "startColumn": 4,
+                        "startOffset": 7004,
+                        "endLine": 74,
+                        "endColumn": 12,
+                        "endOffset": 7146
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 57,
+                    "startColumn": 4,
+                    "startOffset": 4945,
+                    "endColumn": 74,
+                    "endOffset": 5015
+                },
+                "from": {
+                    "file": "C:\\Users\\gshkr\\Desktop\\Android-Object-Detection-master\\Android-Object-Detection-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 77,
+                        "startColumn": 4,
+                        "startOffset": 7377,
+                        "endColumn": 74,
+                        "endOffset": 7447
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 58,
+                    "startColumn": 4,
+                    "startOffset": 5020,
+                    "endColumn": 88,
+                    "endOffset": 5104
+                },
+                "from": {
+                    "file": "C:\\Users\\gshkr\\Desktop\\Android-Object-Detection-master\\Android-Object-Detection-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 78,
+                        "startColumn": 4,
+                        "startOffset": 7452,
+                        "endColumn": 88,
+                        "endOffset": 7536
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 59,
+                    "startColumn": 4,
+                    "startOffset": 5109,
+                    "endColumn": 86,
+                    "endOffset": 5191
+                },
+                "from": {
+                    "file": "C:\\Users\\gshkr\\Desktop\\Android-Object-Detection-master\\Android-Object-Detection-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 79,
+                        "startColumn": 4,
+                        "startOffset": 7541,
+                        "endColumn": 86,
+                        "endOffset": 7623
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 60,
+                    "startColumn": 4,
+                    "startOffset": 5196,
+                    "endColumn": 100,
+                    "endOffset": 5292
+                },
+                "from": {
+                    "file": "C:\\Users\\gshkr\\Desktop\\Android-Object-Detection-master\\Android-Object-Detection-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 80,
+                        "startColumn": 4,
+                        "startOffset": 7628,
+                        "endColumn": 100,
+                        "endOffset": 7724
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 61,
+                    "startColumn": 4,
+                    "startOffset": 5297,
+                    "endLine": 108,
+                    "endColumn": 12,
+                    "endOffset": 8698
+                },
+                "from": {
+                    "file": "C:\\Users\\gshkr\\Desktop\\Android-Object-Detection-master\\Android-Object-Detection-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 81,
+                        "startColumn": 4,
+                        "startOffset": 7729,
+                        "endLine": 128,
+                        "endColumn": 12,
+                        "endOffset": 11130
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 109,
+                    "startColumn": 4,
+                    "startOffset": 8703,
+                    "endLine": 111,
+                    "endColumn": 12,
+                    "endOffset": 8884
+                },
+                "from": {
+                    "file": "C:\\Users\\gshkr\\Desktop\\Android-Object-Detection-master\\Android-Object-Detection-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 129,
+                        "startColumn": 4,
+                        "startOffset": 11135,
+                        "endLine": 131,
+                        "endColumn": 12,
+                        "endOffset": 11316
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 112,
+                    "startColumn": 4,
+                    "startOffset": 8889,
+                    "endLine": 159,
+                    "endColumn": 12,
+                    "endOffset": 12302
+                },
+                "from": {
+                    "file": "C:\\Users\\gshkr\\Desktop\\Android-Object-Detection-master\\Android-Object-Detection-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 132,
+                        "startColumn": 4,
+                        "startOffset": 11321,
+                        "endLine": 179,
+                        "endColumn": 12,
+                        "endOffset": 14734
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 160,
+                    "startColumn": 4,
+                    "startOffset": 12307,
+                    "endLine": 162,
+                    "endColumn": 12,
+                    "endOffset": 12500
+                },
+                "from": {
+                    "file": "C:\\Users\\gshkr\\Desktop\\Android-Object-Detection-master\\Android-Object-Detection-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 180,
+                        "startColumn": 4,
+                        "startOffset": 14739,
+                        "endLine": 182,
+                        "endColumn": 12,
+                        "endOffset": 14932
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 163,
+                    "startColumn": 4,
+                    "startOffset": 12505,
+                    "endLine": 164,
+                    "endColumn": 12,
+                    "endOffset": 12623
+                },
+                "from": {
+                    "file": "C:\\Users\\gshkr\\Desktop\\Android-Object-Detection-master\\Android-Object-Detection-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 185,
+                        "startColumn": 4,
+                        "startOffset": 15163,
+                        "endLine": 186,
+                        "endColumn": 12,
+                        "endOffset": 15281
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 165,
+                    "startColumn": 4,
+                    "startOffset": 12628,
+                    "endLine": 166,
+                    "endColumn": 12,
+                    "endOffset": 12746
+                },
+                "from": {
+                    "file": "C:\\Users\\gshkr\\Desktop\\Android-Object-Detection-master\\Android-Object-Detection-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 187,
+                        "startColumn": 4,
+                        "startOffset": 15286,
+                        "endLine": 188,
+                        "endColumn": 12,
+                        "endOffset": 15404
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 167,
+                    "startColumn": 4,
+                    "startOffset": 12751,
+                    "endLine": 168,
+                    "endColumn": 12,
+                    "endOffset": 12859
+                },
+                "from": {
+                    "file": "C:\\Users\\gshkr\\Desktop\\Android-Object-Detection-master\\Android-Object-Detection-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 189,
+                        "startColumn": 4,
+                        "startOffset": 15409,
+                        "endLine": 190,
+                        "endColumn": 12,
+                        "endOffset": 15517
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 169,
+                    "startColumn": 4,
+                    "startOffset": 12864,
+                    "endLine": 171,
+                    "endColumn": 12,
+                    "endOffset": 13042
+                },
+                "from": {
+                    "file": "C:\\Users\\gshkr\\Desktop\\Android-Object-Detection-master\\Android-Object-Detection-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 191,
+                        "startColumn": 4,
+                        "startOffset": 15522,
+                        "endLine": 193,
+                        "endColumn": 12,
+                        "endOffset": 15700
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 172,
+                    "startColumn": 4,
+                    "startOffset": 13047,
+                    "endLine": 173,
+                    "endColumn": 12,
+                    "endOffset": 13173
+                },
+                "from": {
+                    "file": "C:\\Users\\gshkr\\Desktop\\Android-Object-Detection-master\\Android-Object-Detection-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 194,
+                        "startColumn": 4,
+                        "startOffset": 15705,
+                        "endLine": 195,
+                        "endColumn": 12,
+                        "endOffset": 15831
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 174,
+                    "startColumn": 4,
+                    "startOffset": 13178,
+                    "endColumn": 116,
+                    "endOffset": 13290
+                },
+                "from": {
+                    "file": "C:\\Users\\gshkr\\Desktop\\Android-Object-Detection-master\\Android-Object-Detection-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 196,
+                        "startColumn": 4,
+                        "startOffset": 15836,
+                        "endColumn": 116,
+                        "endOffset": 15948
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 175,
+                    "startColumn": 4,
+                    "startOffset": 13295,
+                    "endColumn": 88,
+                    "endOffset": 13379
+                },
+                "from": {
+                    "file": "C:\\Users\\gshkr\\Desktop\\Android-Object-Detection-master\\Android-Object-Detection-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 197,
+                        "startColumn": 4,
+                        "startOffset": 15953,
+                        "endColumn": 88,
+                        "endOffset": 16037
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 176,
+                    "startColumn": 4,
+                    "startOffset": 13384,
+                    "endColumn": 110,
+                    "endOffset": 13490
+                },
+                "from": {
+                    "file": "C:\\Users\\gshkr\\Desktop\\Android-Object-Detection-master\\Android-Object-Detection-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 198,
+                        "startColumn": 4,
+                        "startOffset": 16042,
+                        "endColumn": 110,
+                        "endOffset": 16148
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 177,
+                    "startColumn": 4,
+                    "startOffset": 13495,
+                    "endColumn": 126,
+                    "endOffset": 13617
+                },
+                "from": {
+                    "file": "C:\\Users\\gshkr\\Desktop\\Android-Object-Detection-master\\Android-Object-Detection-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 199,
+                        "startColumn": 4,
+                        "startOffset": 16153,
+                        "endColumn": 126,
+                        "endOffset": 16275
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 178,
+                    "startColumn": 4,
+                    "startOffset": 13622,
+                    "endColumn": 100,
+                    "endOffset": 13718
+                },
+                "from": {
+                    "file": "C:\\Users\\gshkr\\Desktop\\Android-Object-Detection-master\\Android-Object-Detection-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 200,
+                        "startColumn": 4,
+                        "startOffset": 16280,
+                        "endColumn": 100,
+                        "endOffset": 16376
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 179,
+                    "startColumn": 4,
+                    "startOffset": 13723,
+                    "endColumn": 94,
+                    "endOffset": 13813
+                },
+                "from": {
+                    "file": "C:\\Users\\gshkr\\Desktop\\Android-Object-Detection-master\\Android-Object-Detection-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 201,
+                        "startColumn": 4,
+                        "startOffset": 16381,
+                        "endColumn": 94,
+                        "endOffset": 16471
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 180,
+                    "startColumn": 4,
+                    "startOffset": 13818,
+                    "endColumn": 122,
+                    "endOffset": 13936
+                },
+                "from": {
+                    "file": "C:\\Users\\gshkr\\Desktop\\Android-Object-Detection-master\\Android-Object-Detection-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 202,
+                        "startColumn": 4,
+                        "startOffset": 16476,
+                        "endColumn": 122,
+                        "endOffset": 16594
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 181,
+                    "startColumn": 4,
+                    "startOffset": 13941,
+                    "endColumn": 128,
+                    "endOffset": 14065
+                },
+                "from": {
+                    "file": "C:\\Users\\gshkr\\Desktop\\Android-Object-Detection-master\\Android-Object-Detection-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 203,
+                        "startColumn": 4,
+                        "startOffset": 16599,
+                        "endColumn": 128,
+                        "endOffset": 16723
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 182,
+                    "startColumn": 4,
+                    "startOffset": 14070,
+                    "endColumn": 116,
+                    "endOffset": 14182
+                },
+                "from": {
+                    "file": "C:\\Users\\gshkr\\Desktop\\Android-Object-Detection-master\\Android-Object-Detection-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 204,
+                        "startColumn": 4,
+                        "startOffset": 16728,
+                        "endColumn": 116,
+                        "endOffset": 16840
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 183,
+                    "startColumn": 4,
+                    "startOffset": 14187,
+                    "endColumn": 92,
+                    "endOffset": 14275
+                },
+                "from": {
+                    "file": "C:\\Users\\gshkr\\Desktop\\Android-Object-Detection-master\\Android-Object-Detection-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 205,
+                        "startColumn": 4,
+                        "startOffset": 16845,
+                        "endColumn": 92,
+                        "endOffset": 16933
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 184,
+                    "startColumn": 4,
+                    "startOffset": 14280,
+                    "endLine": 185,
+                    "endColumn": 12,
+                    "endOffset": 14410
+                },
+                "from": {
+                    "file": "C:\\Users\\gshkr\\Desktop\\Android-Object-Detection-master\\Android-Object-Detection-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 206,
+                        "startColumn": 4,
+                        "startOffset": 16938,
+                        "endLine": 207,
+                        "endColumn": 12,
+                        "endOffset": 17068
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 186,
+                    "startColumn": 4,
+                    "startOffset": 14415,
+                    "endLine": 187,
+                    "endColumn": 12,
+                    "endOffset": 14553
+                },
+                "from": {
+                    "file": "C:\\Users\\gshkr\\Desktop\\Android-Object-Detection-master\\Android-Object-Detection-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 208,
+                        "startColumn": 4,
+                        "startOffset": 17073,
+                        "endLine": 209,
+                        "endColumn": 12,
+                        "endOffset": 17211
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 188,
+                    "startColumn": 4,
+                    "startOffset": 14558,
+                    "endLine": 189,
+                    "endColumn": 12,
+                    "endOffset": 14688
+                },
+                "from": {
+                    "file": "C:\\Users\\gshkr\\Desktop\\Android-Object-Detection-master\\Android-Object-Detection-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 210,
+                        "startColumn": 4,
+                        "startOffset": 17216,
+                        "endLine": 211,
+                        "endColumn": 12,
+                        "endOffset": 17346
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 190,
+                    "startColumn": 4,
+                    "startOffset": 14693,
+                    "endLine": 191,
+                    "endColumn": 12,
+                    "endOffset": 14807
+                },
+                "from": {
+                    "file": "C:\\Users\\gshkr\\Desktop\\Android-Object-Detection-master\\Android-Object-Detection-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 212,
+                        "startColumn": 4,
+                        "startOffset": 17351,
+                        "endLine": 213,
+                        "endColumn": 12,
+                        "endOffset": 17465
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 192,
+                    "startColumn": 4,
+                    "startOffset": 14812,
+                    "endLine": 195,
+                    "endColumn": 12,
+                    "endOffset": 15008
+                },
+                "from": {
+                    "file": "C:\\Users\\gshkr\\Desktop\\Android-Object-Detection-master\\Android-Object-Detection-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 214,
+                        "startColumn": 4,
+                        "startOffset": 17470,
+                        "endLine": 217,
+                        "endColumn": 12,
+                        "endOffset": 17666
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 196,
+                    "startColumn": 4,
+                    "startOffset": 15013,
+                    "endLine": 197,
+                    "endColumn": 12,
+                    "endOffset": 15127
+                },
+                "from": {
+                    "file": "C:\\Users\\gshkr\\Desktop\\Android-Object-Detection-master\\Android-Object-Detection-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 218,
+                        "startColumn": 4,
+                        "startOffset": 17671,
+                        "endLine": 219,
+                        "endColumn": 12,
+                        "endOffset": 17785
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 198,
+                    "startColumn": 4,
+                    "startOffset": 15132,
+                    "endColumn": 92,
+                    "endOffset": 15220
+                },
+                "from": {
+                    "file": "C:\\Users\\gshkr\\Desktop\\Android-Object-Detection-master\\Android-Object-Detection-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 220,
+                        "startColumn": 4,
+                        "startOffset": 17790,
+                        "endColumn": 92,
+                        "endOffset": 17878
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 199,
+                    "startColumn": 4,
+                    "startOffset": 15225,
+                    "endColumn": 110,
+                    "endOffset": 15331
+                },
+                "from": {
+                    "file": "C:\\Users\\gshkr\\Desktop\\Android-Object-Detection-master\\Android-Object-Detection-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 221,
+                        "startColumn": 4,
+                        "startOffset": 17883,
+                        "endColumn": 110,
+                        "endOffset": 17989
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 200,
+                    "startColumn": 4,
+                    "startOffset": 15336,
+                    "endColumn": 55,
+                    "endOffset": 15387
+                },
+                "from": {
+                    "file": "C:\\Users\\gshkr\\Desktop\\Android-Object-Detection-master\\Android-Object-Detection-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 222,
+                        "startColumn": 4,
+                        "startOffset": 17994,
+                        "endColumn": 55,
+                        "endOffset": 18045
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 201,
+                    "startColumn": 4,
+                    "startOffset": 15392,
+                    "endLine": 202,
+                    "endColumn": 12,
+                    "endOffset": 15494
+                },
+                "from": {
+                    "file": "C:\\Users\\gshkr\\Desktop\\Android-Object-Detection-master\\Android-Object-Detection-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 223,
+                        "startColumn": 4,
+                        "startOffset": 18050,
+                        "endLine": 224,
+                        "endColumn": 12,
+                        "endOffset": 18152
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 203,
+                    "startColumn": 4,
+                    "startOffset": 15499,
+                    "endLine": 206,
+                    "endColumn": 12,
+                    "endOffset": 15689
+                },
+                "from": {
+                    "file": "C:\\Users\\gshkr\\Desktop\\Android-Object-Detection-master\\Android-Object-Detection-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 225,
+                        "startColumn": 4,
+                        "startOffset": 18157,
+                        "endLine": 228,
+                        "endColumn": 12,
+                        "endOffset": 18347
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 207,
+                    "startColumn": 4,
+                    "startOffset": 15694,
+                    "endLine": 208,
+                    "endColumn": 12,
+                    "endOffset": 15800
+                },
+                "from": {
+                    "file": "C:\\Users\\gshkr\\Desktop\\Android-Object-Detection-master\\Android-Object-Detection-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 229,
+                        "startColumn": 4,
+                        "startOffset": 18352,
+                        "endLine": 230,
+                        "endColumn": 12,
+                        "endOffset": 18458
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 209,
+                    "startColumn": 4,
+                    "startOffset": 15805,
+                    "endLine": 210,
+                    "endColumn": 12,
+                    "endOffset": 15933
+                },
+                "from": {
+                    "file": "C:\\Users\\gshkr\\Desktop\\Android-Object-Detection-master\\Android-Object-Detection-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 231,
+                        "startColumn": 4,
+                        "startOffset": 18463,
+                        "endLine": 232,
+                        "endColumn": 12,
+                        "endOffset": 18591
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 211,
+                    "startColumn": 4,
+                    "startOffset": 15938,
+                    "endColumn": 94,
+                    "endOffset": 16028
+                },
+                "from": {
+                    "file": "C:\\Users\\gshkr\\Desktop\\Android-Object-Detection-master\\Android-Object-Detection-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 233,
+                        "startColumn": 4,
+                        "startOffset": 18596,
+                        "endColumn": 94,
+                        "endOffset": 18686
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 212,
+                    "startColumn": 4,
+                    "startOffset": 16033,
+                    "endColumn": 90,
+                    "endOffset": 16119
+                },
+                "from": {
+                    "file": "C:\\Users\\gshkr\\Desktop\\Android-Object-Detection-master\\Android-Object-Detection-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 234,
+                        "startColumn": 4,
+                        "startOffset": 18691,
+                        "endColumn": 90,
+                        "endOffset": 18777
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 213,
+                    "startColumn": 4,
+                    "startOffset": 16124,
+                    "endColumn": 112,
+                    "endOffset": 16232
+                },
+                "from": {
+                    "file": "C:\\Users\\gshkr\\Desktop\\Android-Object-Detection-master\\Android-Object-Detection-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 235,
+                        "startColumn": 4,
+                        "startOffset": 18782,
+                        "endColumn": 112,
+                        "endOffset": 18890
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 214,
+                    "startColumn": 4,
+                    "startOffset": 16237,
+                    "endColumn": 116,
+                    "endOffset": 16349
+                },
+                "from": {
+                    "file": "C:\\Users\\gshkr\\Desktop\\Android-Object-Detection-master\\Android-Object-Detection-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 236,
+                        "startColumn": 4,
+                        "startOffset": 18895,
+                        "endColumn": 116,
+                        "endOffset": 19007
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 215,
+                    "startColumn": 4,
+                    "startOffset": 16354,
+                    "endLine": 216,
+                    "endColumn": 12,
+                    "endOffset": 16488
+                },
+                "from": {
+                    "file": "C:\\Users\\gshkr\\Desktop\\Android-Object-Detection-master\\Android-Object-Detection-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 237,
+                        "startColumn": 4,
+                        "startOffset": 19012,
+                        "endLine": 238,
+                        "endColumn": 12,
+                        "endOffset": 19146
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 217,
+                    "startColumn": 4,
+                    "startOffset": 16493,
+                    "endLine": 223,
+                    "endColumn": 12,
+                    "endOffset": 16841
+                },
+                "from": {
+                    "file": "C:\\Users\\gshkr\\Desktop\\Android-Object-Detection-master\\Android-Object-Detection-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 241,
+                        "startColumn": 4,
+                        "startOffset": 19377,
+                        "endLine": 247,
+                        "endColumn": 12,
+                        "endOffset": 19725
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 224,
+                    "startColumn": 4,
+                    "startOffset": 16846,
+                    "endLine": 230,
+                    "endColumn": 12,
+                    "endOffset": 17206
+                },
+                "from": {
+                    "file": "C:\\Users\\gshkr\\Desktop\\Android-Object-Detection-master\\Android-Object-Detection-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 248,
+                        "startColumn": 4,
+                        "startOffset": 19730,
+                        "endLine": 254,
+                        "endColumn": 12,
+                        "endOffset": 20090
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 231,
+                    "startColumn": 4,
+                    "startOffset": 17211,
+                    "endLine": 240,
+                    "endColumn": 12,
+                    "endOffset": 17886
+                },
+                "from": {
+                    "file": "C:\\Users\\gshkr\\Desktop\\Android-Object-Detection-master\\Android-Object-Detection-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 255,
+                        "startColumn": 4,
+                        "startOffset": 20095,
+                        "endLine": 264,
+                        "endColumn": 12,
+                        "endOffset": 20770
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 241,
+                    "startColumn": 4,
+                    "startOffset": 17891,
+                    "endColumn": 56,
+                    "endOffset": 17943
+                },
+                "from": {
+                    "file": "C:\\Users\\gshkr\\Desktop\\Android-Object-Detection-master\\Android-Object-Detection-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 265,
+                        "startColumn": 4,
+                        "startOffset": 20775,
+                        "endColumn": 56,
+                        "endOffset": 20827
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 242,
+                    "startColumn": 4,
+                    "startOffset": 17948,
+                    "endColumn": 57,
+                    "endOffset": 18001
+                },
+                "from": {
+                    "file": "C:\\Users\\gshkr\\Desktop\\Android-Object-Detection-master\\Android-Object-Detection-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 266,
+                        "startColumn": 4,
+                        "startOffset": 20832,
+                        "endColumn": 57,
+                        "endOffset": 20885
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 243,
+                    "startColumn": 4,
+                    "startOffset": 18006,
+                    "endLine": 244,
+                    "endColumn": 12,
+                    "endOffset": 18082
+                },
+                "from": {
+                    "file": "C:\\Users\\gshkr\\Desktop\\Android-Object-Detection-master\\Android-Object-Detection-master\\app\\src\\main\\res\\values-v21\\base-template-styles.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 677,
+                        "endLine": 21,
+                        "endColumn": 12,
+                        "endOffset": 753
+                    }
+                }
+            }
+        ]
+    }
+]
