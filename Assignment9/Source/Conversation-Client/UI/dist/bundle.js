@@ -12584,23 +12584,30 @@ var Welcome = _wrapComponent("Welcome")(function (_React$Component) {
                             _react3.default.createElement(
                                 "div",
                                 null,
-                                "Hey Genie.. Show me Horses?"
+                                "Hey Genie.. Show me rose?"
                             ),
                             _react3.default.createElement(
                                 "div",
                                 null,
-                                "Show me cat pictures?"
+                                "Show me lily pictures?"
                             ),
                             _react3.default.createElement(
                                 "div",
                                 null,
-                                "Show me Dog photos?"
+                                "Show me orchid photos?"
                             ),
+                            _react3.default.createElement(
+                                "div",
+                                null,
+                                "Show me tulip pics?"
+                            ),
+
                             _react3.default.createElement(
                                 "div",
                                 null,
                                 "Clear the screen"
                             )
+
                         )
                     )
                 )
